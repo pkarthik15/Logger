@@ -1,0 +1,6 @@
+D:\2020\RESEARCH\DOTNET\Logger\Logger\bin\Release\Logger.dll
+D:\2020\RESEARCH\DOTNET\Logger\Logger\bin\Release\Logger.pdb
+D:\2020\RESEARCH\DOTNET\Logger\Logger\bin\Release\log4net.dll
+D:\2020\RESEARCH\DOTNET\Logger\Logger\bin\Release\log4net.xml
+D:\2020\RESEARCH\DOTNET\Logger\Logger\obj\Release\Logger.dll
+D:\2020\RESEARCH\DOTNET\Logger\Logger\obj\Release\Logger.pdb
